@@ -14,7 +14,7 @@ En nuestro caso nosotros trabajamos con Windows en 64 bits, en ese caso le darem
 
 ![visual](img-Visual//img1.png) 
 
-<cite style="display:block; text-align: justify">Una ves descargado el Visual Studio Code lo ejecutamos.</cite>
+<cite style="display:block; text-align: justify">Una vez descargado el Visual Studio Code lo ejecutamos.</cite>
 
 ![visual](img-Visual/img2.jpeg)
 
