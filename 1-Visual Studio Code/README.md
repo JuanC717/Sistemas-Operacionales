@@ -21,3 +21,23 @@ En nuestro caso nosotros trabajamos con Windows en 64 bits, en ese caso le darem
 <cite style="display:block; text-align: justify">En esta ventana tendremos que aceptar los Términos de licencia del software, una ves aceptemos del acuerdo le damos en el botón de siguiente</cite>
 
 ![visual](img-Visual/img3.jfif)
+
+<cite style="display:block; text-align: justify">En esta parte, nos indica donde se va instalar el programa y nos da la posibilidad de asignarle una ubicación personalizada, en nuestro caso lo dejaremos así y le daremos en el botón de siguiente.</cite>
+
+![visual](img-Visual/img4.jfif)
+
+<cite style="display:block; text-align: justify">Luego nos saldrá esta ventana donde se nos pondrá el acceso directo del programa, lo dejaremos tal cual y le daremos en el botón de siguiente</cite>
+
+![visual](img-Visual/img5.jfif)
+
+<cite style="display:block; text-align: justify">En esta ventana solo le daremos en el botón de siguiente</cite>
+
+![visual](img-Visual/img6.jfif)
+
+<cite style="display:block; text-align: justify">Nos saldrá esta ventana donde nos da un resumen de donde se instalara el programa, el acceso directo y las tareas adicionales que ejecutara; le damos al botón de Instalar para continuar.</cite>
+
+![visual](img-Visual/img7.jfif)
+
+<cite style="display:block; text-align: justify">Una ves le demos a Instalar, el programa empezara hacer el proceso correspondiente</cite>
+
+![visual](img-Visual/img8.jfif)
