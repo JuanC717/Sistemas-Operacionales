@@ -41,3 +41,7 @@ Una vez instalado Git, en cualquier sistema operativo, podemos comprobar que el 
 
 <cite style="display:block; text-align: justify">Mediante esta configuración, ya podremos realizar los commits de nuestros proyectos.</cite>
 
+<cite style="display:block; text-align: justify">Vamos a la parte extensiones y buscamos <b>Github</b>, nos saldrá un listado de extensiones disponibles, Seleccionaremos la resaltada acontinuación y le daremos instalar.</cite>
+
+![VS Code](img-VS-Code/img6.png)
+
