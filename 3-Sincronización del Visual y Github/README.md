@@ -111,4 +111,8 @@ Una vez instalado Git, en cualquier sistema operativo, podemos comprobar que el 
 
 ![VS Code](img-VS-Code/img24.png)
 
+<cite style="display:block; text-align: justify">Luego nos saldrá esta ventana la cual vamos en darle al botón que esta en Azul</cite>
+
+![VS Code](img-VS-Code/img25.png)
+
 
