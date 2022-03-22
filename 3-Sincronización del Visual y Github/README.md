@@ -115,4 +115,22 @@ Una vez instalado Git, en cualquier sistema operativo, podemos comprobar que el 
 
 ![VS Code](img-VS-Code/img25.png)
 
+<cite style="display:block; text-align: justify">Una vez hecho todos los pasos anteriores ya podremos trabajar en nuestro proyecto y todo los cambios que se hagan los vamos a poder subir a travez de "commits"</cite>
+
+![VS Code](img-VS-Code/img26.png)
+
+<cite style="display:block; text-align: justify">Comenzamos hacer cambios para ver si nos deja crear los "Commits" correctamente.
+
+Podemos ver que en la parte Izquierda del visual en la parte de <b>Control de código fuente nos aparece un apartado de cambios, esos son los cambios que hemos realizado hasta el mosmento en nuestro repositorio.
+
+En la parte derecha nos muestra la vista previa en el lateral, es decir nos da una visualización de como van quedando nuestros cambios.</b></cite>
+
+![VS Code](img-VS-Code/img27.png)
+
+<cite style="display:block; text-align: justify">Escribimos como queremos guardar el "Commit" y le damos en listo.</b></cite>
+
+![VS Code](img-VS-Code/img28.png)
+
+
+
 
