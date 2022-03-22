@@ -150,3 +150,7 @@ En la parte derecha nos muestra la vista previa en el lateral, es decir nos da u
 <cite style="display:block; text-align: justify">Una vez terminada la sincronización del Visual con nuestro repositorio de GitHub nos iremos al navegador en el repositorio en el cual estamos trabajando, le daremos en refrescar y podremos observar que los cambios realizados se han efectuado de manera correcta.</b></cite>
 
 ![VS Code](img-VS-Code/img33.png)
+
+<cite style="display:block; text-align: justify">Ahora ya podemos empezar a crear, eliminar o modificar archivos del proyecto en nuestra computadora. Desde la pestaña de Source Control podemos ver todos los cambios que hemos hecho.</b></cite>
+
+![VS Code](img-VS-Code/img34.png)
