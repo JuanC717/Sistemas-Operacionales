@@ -69,11 +69,21 @@ Una vez instalado Git, en cualquier sistema operativo, podemos comprobar que el 
 
 ![VS Code](img-VS-Code/img12.png)
 
-<cite style="display:block; text-align: justify">Nos mostrara esta ventana donde vamos a permitir que abra el Visual Studio Code</cite>
+<cite style="display:block; text-align: justify">Nos mostrara esta ventana donde vamos a permitir que abra el Visual Studio Code.</cite>
 
 ![VS Code](img-VS-Code/img13.png)
 
-<cite style="display:block; text-align: justify">Nos mostrara esta ventana donde vamos a permitir que abra el Visual Studio Code</cite>
+<cite style="display:block; text-align: justify">Luego nos saldrá esta ventana donde vamos a permitir que se ejecute la extensión.</cite>
 
 ![VS Code](img-VS-Code/img14.png)
+
+# <b>Comprobación</b>
+
+<cite style="display:block; text-align: justify">Para verificar que nuestro Visual Studio Code si esta sincronizado con el Github, vamos copiar la URL de un repositorio el cual ya hemos creado anteriormente.</cite>
+
+![VS Code](img-VS-Code/img15.png)
+
+![VS Code](img-VS-Code/img16.png)
+
+
 
