@@ -1,7 +1,7 @@
 ![Principal](img/img01.png)
 # Realizado Por
 1. Paula Andrea Cuellar Moreno
-1. Juan Camilo Cruz
+1. Juan Camilo Cruz Padilla
 
 ## Agenda
 1. [Visual Studio Code][11]
