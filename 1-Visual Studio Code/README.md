@@ -7,7 +7,7 @@
 
 ![visual](img-Visual//img0.webp) 
 
-# <b>Descargar Visual Studio Code </b>
+# <b>Descarga e instalación de Visual Studio Code </b>
 <cite style="display:block; text-align: justify">Lo primero que haremos es ir a la página oficial de [Visual Studio Code][1_1] y descargar el instalador, en este momento se encuentra disponible la version 1.65, en esta pagina nos muestra una serie de opciones para descargar el intalador dependiendo del sistema opertaivo en el cual estemos trabajando.
 
 En nuestro caso nosotros trabajamos con Windows en 64 bits, en ese caso le daremos clic donde dice "User Installer" </cite>
