@@ -66,5 +66,20 @@ Nos ubicamos en el instalador del sistema operativo en el que estemos trabajando
 
 ![visual](img-Git/img17.jfif)
 
+<cite style="display:block; text-align: justify">Le damos clic al botón de instalar.</cite>
+
+![visual](img-Git/img18.jfif)
+
+<cite style="display:block; text-align: justify">Finalmente comienza la instalación del programa.</cite>
+
+![visual](img-Git/img19.jfif)
+
+<cite style="display:block; text-align: justify">Una ves termina la instalación nos saldrá esta ventana donde nos indica si queremos ver las notas del software y ejecutar el programa al darle al botón de Finish, en nuestro caso solo le daremos a la opción de ejecutar el programa una ves le demos al botón de Finish.</cite>
+
+![visual](img-Git/img20.jfif)
+
+<cite style="display:block; text-align: justify">Se nos ejecutara el programa y se nos mostrara esta ventana.</cite>
+
+![visual](img-Git/img21.jfif)
 
 
