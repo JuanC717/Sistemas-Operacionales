@@ -17,3 +17,7 @@ En nuestro caso nosotros trabajamos con Windows en 64 bits, en ese caso le darem
 <cite style="display:block; text-align: justify">Una ves descargado el Visual Studio Code lo ejecutamos.</cite>
 
 ![visual](img-Visual/img2.jpeg)
+
+<cite style="display:block; text-align: justify">En esta ventana tendremos que aceptar los Términos de licencia del software, una ves aceptemos del acuerdo le damos en el botón de siguiente</cite>
+
+![visual](img-Visual/img3.jfif)
