@@ -38,6 +38,16 @@ En nuestro caso nosotros trabajamos con Windows en 64 bits, en ese caso le darem
 
 ![visual](img-Visual/img7.jfif)
 
-<cite style="display:block; text-align: justify">Una ves le demos a Instalar, el programa empezara hacer el proceso correspondiente</cite>
+<cite style="display:block; text-align: justify">Una ves le demos a Instalar, el programa empezara hacer el proceso correspondiente.</cite>
 
 ![visual](img-Visual/img8.jfif)
+
+<cite style="display:block; text-align: justify">Una ves termina la instalación nos saldrá esta ventana donde nos indica una opción la cual va a ejecutar el Visual Studio Code al darle al botón de Finalizar (Si no queremos que lo ejecute al Finalizar podemos quitarle el "visto" a la Opción).</cite>
+
+![visual](img-Visual/img9.jfif)
+
+<cite style="display:block; text-align: justify">Esto será lo que nos saldrá al momento de terminar con la instalación del programa.</cite>
+
+![visual](img-Visual/img10.jfif)
+
+
