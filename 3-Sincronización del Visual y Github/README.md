@@ -41,11 +41,7 @@ Una vez instalado Git, en cualquier sistema operativo, podemos comprobar que el 
 
 <cite style="display:block; text-align: justify">Mediante esta configuración, ya podremos realizar los commits de nuestros proyectos.</cite>
 
-<cite style="display:block; text-align: justify">En el programa de Visual Studio Code vamos a la parte extensiones y buscamos <b>Github</b>, nos saldrá un listado de extensiones disponibles, Seleccionaremos la resaltada acontinuación y le daremos instalar.</cite>
-
-![VS Code](img-VS-Code/img6.png)
-
-<cite style="display:block; text-align: justify">En la parte inferior izquierda le vamos a dar en "Activar sincronización de configuración..." con esto vamos a poder sincronizar nuestra cuenta de Guthub al Visual Studio Code. </cite>
+<cite style="display:block; text-align: justify">En el programa de Visual Studio Code vamos a la parte inferior izquierda le vamos a dar en "Activar sincronización de configuración..." con esto vamos a poder sincronizar nuestra cuenta de Guthub al Visual Studio Code. </cite>
 
 ![VS Code](img-VS-Code/img7.png)
 
@@ -85,5 +81,34 @@ Una vez instalado Git, en cualquier sistema operativo, podemos comprobar que el 
 
 ![VS Code](img-VS-Code/img16.png)
 
+<cite style="display:block; text-align: justify">El la parte de "Explorador" nos saldra una opcion de Clonar Repositorio.</cite>
+
+![VS Code](img-VS-Code/img17.png)
+
+<cite style="display:block; text-align: justify">Le daremos Clic a ese botón y nos dejara introducir la URL del repositorio con el cual queremos trabaja.</cite>
+
+![VS Code](img-VS-Code/img18.png)
+
+<cite style="display:block; text-align: justify">Nos preguntara en donde queremos que nuestro repositorio cree la carpeta de forma local en nuestro equipo.</cite>
+
+![VS Code](img-VS-Code/img19.png)
+
+<cite style="display:block; text-align: justify">En la parte inferior derecha nos saldrá esto, lo cual nos indica el proceso de clonación del repositorio.</cite>
+
+![VS Code](img-VS-Code/img20.png)
+
+<cite style="display:block; text-align: justify">Aparecerá una ventana la cual nos pedirá que iniciemos sesión con la cuenta de GitHub, esto solo lo pedirá por primera vez.</cite>
+
+![VS Code](img-VS-Code/img21.png)
+
+<cite style="display:block; text-align: justify">Le damos en autorizar.</cite>
+
+![VS Code](img-VS-Code/img22.png)
+
+![VS Code](img-VS-Code/img23.png)
+
+<cite style="display:block; text-align: justify">Una ves autorizamos el acceso, en el programa de visual nos monstrara en la parte inferior derecha este anuncio el cual no indica que se deseamos abrir el repositorio clonado, lo cual vamos a acceder, dando click en Abrir.</cite>
+
+![VS Code](img-VS-Code/img24.png)
 
 
