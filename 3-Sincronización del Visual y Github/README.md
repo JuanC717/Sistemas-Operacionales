@@ -22,3 +22,19 @@ Crea un proyecto en la opción “Create repository” o en «Start a New Projec
 ![VS Code](img-VS-Code/img1.png) 
 
 [1_0]:https://github.com
+
+<b>Clonar el repositorio con Visual Studio Code</b>
+
+<cite style="display:block; text-align: justify">Antes de comenzar a clonar el repositorio debemos instalar Visual Studio Code y Git, Lo cual ya hemos hecho anteriormente.
+
+Una vez instalado Git, en cualquier sistema operativo, podemos comprobar que el programa se ha instalado correctamente comprobando el número de versión desde línea de comandos.</cite>
+
+![VS Code](img-VS-Code/img2.png) 
+
+![VS Code](img-VS-Code/img3.png) 
+
+<cite style="display:block; text-align: justify">A continuación, debemos definir nuestro usuario e email, para eso utilizaremos los siguientes comandos.</cite>
+
+![VS Code](img-VS-Code/img4.png) 
+
+![VS Code](img-VS-Code/img3.png) 
