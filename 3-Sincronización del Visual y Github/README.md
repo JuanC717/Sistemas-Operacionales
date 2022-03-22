@@ -61,3 +61,19 @@ Una vez instalado Git, en cualquier sistema operativo, podemos comprobar que el 
 
 ![VS Code](img-VS-Code/img10.png)
 
+<cite style="display:block; text-align: justify">En esta parte vamos a iniciar sesión con nuestros datos de GitHub.</cite>
+
+![VS Code](img-VS-Code/img11.jfif)
+
+<cite style="display:block; text-align: justify">Cuando iniciamos sesión nos volverá a pedir autorización, la cual vamos a otorgar.</cite>
+
+![VS Code](img-VS-Code/img12.png)
+
+<cite style="display:block; text-align: justify">Nos mostrara esta ventana donde vamos a permitir que abra el Visual Studio Code</cite>
+
+![VS Code](img-VS-Code/img13.png)
+
+<cite style="display:block; text-align: justify">Nos mostrara esta ventana donde vamos a permitir que abra el Visual Studio Code</cite>
+
+![VS Code](img-VS-Code/img14.png)
+
