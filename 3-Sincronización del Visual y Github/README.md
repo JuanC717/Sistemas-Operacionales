@@ -131,6 +131,22 @@ En la parte derecha nos muestra la vista previa en el lateral, es decir nos da u
 
 ![VS Code](img-VS-Code/img28.png)
 
+<cite style="display:block; text-align: justify">Nos aparecera una ventana en la cual nos pregunta si deseamos guardar los cambios, le daremos en guardar y confirmar.</b></cite>
 
+![VS Code](img-VS-Code/img29.png)
 
+<cite style="display:block; text-align: justify">Agregamos los cambios con el commit que le hemos asignado y le damos en si.</b></cite>
 
+![VS Code](img-VS-Code/img30.png)
+
+<cite style="display:block; text-align: justify">Ahora ya nos deja sincronizar los cambios y nos muestra cuantos cambios tenemos, le damos clic y dejamos que termine de sincronizar.</b></cite>
+
+![VS Code](img-VS-Code/img31.png)
+
+<cite style="display:block; text-align: justify">Nos aparecera esta ventana la cual nos dice que se aplicaran los cambios realizados al "commit".</b></cite>
+
+![VS Code](img-VS-Code/img32.png)
+
+<cite style="display:block; text-align: justify">Una vez terminada la sincronización del Visual con nuestro repositorio de GitHub nos iremos al navegador en el repositorio en el cual estamos trabajando, le daremos en refrescar y podremos observar que los cambios realizados se han efectuado de manera correcta.</b></cite>
+
+![VS Code](img-VS-Code/img33.png)
