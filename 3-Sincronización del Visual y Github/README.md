@@ -38,3 +38,5 @@ Una vez instalado Git, en cualquier sistema operativo, podemos comprobar que el 
 ![VS Code](img-VS-Code/img4.png) 
 
 ![VS Code](img-VS-Code/img3.png) 
+
+<cite style="display:block; text-align: justify">ssss</cite>
