@@ -151,6 +151,6 @@ En la parte derecha nos muestra la vista previa en el lateral, es decir nos da u
 
 ![VS Code](img-VS-Code/img33.png)
 
-<cite style="display:block; text-align: justify">Ahora ya podemos empezar a crear, eliminar o modificar archivos del proyecto en nuestra computadora. Desde la pestaña de Source Control podemos ver todos los cambios que hemos hecho.</b></cite>
+<cite style="display:block; text-align: justify">Ahora ya podemos empezar a crear, eliminar o modificar archivos del proyecto en nuestra computadora.</b></cite>
 
 ![VS Code](img-VS-Code/img34.png)
