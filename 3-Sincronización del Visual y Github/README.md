@@ -41,7 +41,19 @@ Una vez instalado Git, en cualquier sistema operativo, podemos comprobar que el 
 
 <cite style="display:block; text-align: justify">Mediante esta configuración, ya podremos realizar los commits de nuestros proyectos.</cite>
 
-<cite style="display:block; text-align: justify">Vamos a la parte extensiones y buscamos <b>Github</b>, nos saldrá un listado de extensiones disponibles, Seleccionaremos la resaltada acontinuación y le daremos instalar.</cite>
+<cite style="display:block; text-align: justify">En el programa de Visual Studio Code vamos a la parte extensiones y buscamos <b>Github</b>, nos saldrá un listado de extensiones disponibles, Seleccionaremos la resaltada acontinuación y le daremos instalar.</cite>
 
 ![VS Code](img-VS-Code/img6.png)
+
+<cite style="display:block; text-align: justify">En la parte inferior izquierda le vamos a dar en "Activar sincronización de configuración..." con esto vamos a poder sincronizar nuestra cuenta de Guthub al Visual Studio Code. </cite>
+
+![VS Code](img-VS-Code/img7.png)
+
+<cite style="display:block; text-align: justify">Nos saldrá esta ventana donde dejaremos tal cual esta y le daremos en Iniciar sesión y activar.</cite>
+
+![VS Code](img-VS-Code/img8.png)
+
+<cite style="display:block; text-align: justify">Acá vamos a iniciar sesión con nuestra cuenta de GitHub.</cite>
+
+![VS Code](img-VS-Code/img9.png)
 
